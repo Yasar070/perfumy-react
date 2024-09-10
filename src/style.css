@@ -1,0 +1,69 @@
+.navbarheading{
+    background-color: black;
+    color: white;
+    display:inline ;
+    
+
+}
+.tags{
+    background-color: black;
+    color: white;
+    display: flex;
+    
+
+}
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content:space-between;
+    gap: 2px;
+
+}
+.Nav{
+    background-color: black;
+    color: white;
+    gap: 20px;
+
+
+}
+/* search */
+.search{
+    margin-top: 20px;
+    text-align: center;
+}
+.searchbar{
+    height: 40px;
+    width: 800px;
+}
+/* product */
+.Box1{
+    border: solid black 2px;
+    height: 400px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+}
+.Img1{
+    height:200px;
+    width: 200px;
+}
+.products{
+    display: flex;
+    justify-content:center;
+}
+/* about */
+.about{
+    text-align: center;
+
+}
+/* footer */
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+    padding: 10px;
+}
